@@ -1,4 +1,7 @@
-p{
+
+body{
+    background-color: aquamarine;
+}p{
     color:red;
 }
 h1{
